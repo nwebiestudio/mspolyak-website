@@ -8,12 +8,16 @@ STATIC_PATHS = (
     "books",
 )
 THEME = "themes/lovers"
+# BOOTSTRAP_THEME = "lovers"
 
 TIMEZONE = "Europe/Moscow"
 
 DEFAULT_LANG = "RU"
 
 ARTICLE_URL = "poliak-mark-solomonovich.html"
+
+# Globals to use inline in md files
+AUTHOR_EMAIL = "mspolyak@ya.ru"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

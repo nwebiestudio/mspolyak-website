@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pelican = {extras = ["markdown"], version = "^4.9.1"}
+jinja2 = {extras = ["html"], version = "^3.1.4"}
 
 
 [build-system]

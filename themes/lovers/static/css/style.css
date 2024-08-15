@@ -27,6 +27,46 @@
   }
 }
 
+.species_name {
+  font-style: italic;
+}
+
+td.toc_chapter {
+  font-weight: bold;
+  font-size: 110%;
+  text-transform: uppercase;
+  padding-top: 1ex;
+  padding-bottom: 0;
+}
+td.toc_chapter_name {
+  padding: 0;
+}
+td.toc_paragraph {
+  padding: 0 0 0 2ex;
+  /*padding-left: 2ex;*/
+  font-size: 95%;
+}
+td.toc_sub_paragraph {
+  padding: 0 0 0 4ex;
+  /*padding-left: 4ex;*/
+  font-size: 90%;
+}
+td.toc_sub2_paragraph {
+  padding: 0 0 0 6ex;
+  font-size: 85%;
+}
+td.toc_entry {
+  text-transform: uppercase;
+  padding-top: 1ex;
+  padding-bottom: 0;
+}
+td.toc_page {
+  text-align: right;
+  padding-left: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 /* End custom styles */
 
 *,
