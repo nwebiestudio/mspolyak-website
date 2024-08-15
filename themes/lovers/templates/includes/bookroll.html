@@ -1,0 +1,14 @@
+{% if BOOKS %}
+<div class="panel panel-primary">
+  <div class="panel-heading">Мои книги</div>
+  <div class="panel-body">
+    {% for name, link, image in BOOKS %}
+    <li class="list-group-item">
+      <a href="{{ link }}" title="{{ name }}"
+        ><img src="{{ SITEURL }}/images/{{ image }}" alt="{{ name }}" />
+      </a>
+    </li>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

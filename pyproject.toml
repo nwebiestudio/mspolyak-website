@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mspolyak-website"
+version = "0.1.0"
+description = "Website of Dr. M. Polyak"
+authors = ["Denis Golod <golod@astera.in>"]
+license = "NCOSL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pelican = {extras = ["markdown"], version = "^4.9.1"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
