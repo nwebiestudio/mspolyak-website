@@ -29,7 +29,7 @@ Slug: antibiotics_laboratory_book
 
 #### **Скачать электронную версию книги можно по [ссылке](books/laboratory_support_full.pdf).**
 
-### [Оглавление](books/laboratory_support_toc.pdf)
+### [Оглавление](books/laboratory_support_toc.pdf) {#toc}
 
 <table><tbody>
   <tr><td class="toc_entry">Предисловие [<a href="books/laboratory_support_foreword.pdf" title="Скачать в формате PDF...">pdf</a>]</td><td class="toc_page">3</td></tr>

@@ -67,7 +67,23 @@ td.toc_page {
   padding-bottom: 0;
 }
 
+.flex-book-container ul {
+  display: flex;
+  flex-wrap: wrap; /* Wrap items to the next line */
+  list-style-type: none; /* Removes default list styling */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+}
+
+.flex-book-container li {
+  flex: 1 0 50%; /* Each item takes up 50% of the container width */
+  box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+  padding: 10px; /* Optional: Add padding for better spacing */
+}
+
+/**/
 /* End custom styles */
+/**/
 
 *,
 *:before,

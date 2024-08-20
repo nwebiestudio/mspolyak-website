@@ -12,14 +12,13 @@
 {% if SOCIAL %}
 <div class="panel panel-primary">
     <div class="panel-heading">
-        ~ Follow me ~
+        Контакты
     </div>
     <div class="panel-body">
-    {% for name, link in SOCIAL %}
-        <a href="{{ link }}"><img
-            class= "social-icon" src="{{ SITEURL }}/theme/images/{{ name }}-icon.png"></img>
+        {% for name, link in SOCIAL %}
+        <a href="{{ link }}"><img class="social-icon" src="{{ SITEURL }}/theme/images/{{ name }}-icon.svg"></img>
         </a>
-    {% endfor %}
+        {% endfor %}
     </div>
 </div>
 {% endif %}
@@ -27,12 +26,12 @@
 {% if TAG_CLOUD %}
 <div class="panel panel-primary">
     <div class="panel-heading">
-            ~ Tag cloud ~
+        ~ Tag cloud ~
     </div>
     <div class="panel-body">
         {% for tag in tag_cloud|sort(attribute='1') %}
-            <a href="{{ SITEURL }}/{{ tag.0.url }}"><span class="label label-default">{{ tag.0 }}</span></a>
-        {% endfor %} 
+        <a href="{{ SITEURL }}/{{ tag.0.url }}"><span class="label label-default">{{ tag.0 }}</span></a>
+        {% endfor %}
     </div>
 </div>
 {% endif %}

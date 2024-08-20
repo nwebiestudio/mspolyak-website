@@ -41,7 +41,7 @@ Slug: antibiotic_therapy_of_problematic_infections
 
 #### **Скачать электронную версию книги можно по [ссылке](books/antibiotic_therapy_of_problematic_infections_full.pdf).**
 
-### Оглавление
+### Оглавление {#toc}
 
 <table><tbody>
   <tr><td class="toc_entry"><a href="books/antibiotic_therapy_of_problematic_infections_foreword.pdf" title="Поляк М.С. Антибиотикотерапия проблемных инфекций (преодоление резистентности) (предисловие)">О чем эта книга (вместо предисловия)</a> [<a href="books/antibiotic_therapy_of_problematic_infections_foreword.pdf" title="Скачать в формате PDF...">pdf</a>]</td><td class="toc_page">3</td></tr>

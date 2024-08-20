@@ -26,7 +26,7 @@ Slug: antibiotics_in_ophthalmology
 Приобрести книгу можно в книжных магазинах или обратившись непосредствено к автору по электронной почте.
 Некоторые фрагменты глав книги Вы можете скачать по ссылкам в оглавлении ниже.
 
-### [Оглавление](books/antibiotics_in_ophthalmology_toc.pdf)
+### [Оглавление](books/antibiotics_in_ophthalmology_toc.pdf) {#toc}
 
 <table><tbody>
 	<tr><td class="toc_chapter">Глава 1.</td></tr>

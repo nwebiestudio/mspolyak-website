@@ -3,10 +3,11 @@ SITENAME = "Polyak M.S."
 SITEURL = ""
 
 PATH = "content"
-STATIC_PATHS = (
-    "images",
-    "books",
-)
+STATIC_PATHS = ("images", "books", "extra")
+EXTRA_PATH_METADATA = {
+    "extra/robots.txt": {"path": "robots.txt"},
+    "extra/favicon.ico": {"path": "favicon.ico"},
+}
 THEME = "themes/lovers"
 # BOOTSTRAP_THEME = "lovers"
 
@@ -16,8 +17,7 @@ DEFAULT_LANG = "RU"
 
 ARTICLE_URL = "poliak-mark-solomonovich.html"
 
-# Globals to use inline in md files
-AUTHOR_EMAIL = "mspolyak@ya.ru"
+SOCIAL = (("mail", "mailto:mspolyak@ya.ru"),)
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -25,6 +25,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Naviagtion
+NAV_MENU_CONTENT = (("Домой", "index.html"), ("Публикации", "publications.html"))
 
 # Current books
 BOOKS = (
@@ -69,12 +72,6 @@ BOOKS = (
         "culture_media_book_small_tn.jpg",
     ),
 )
-
-# Social widget
-# SOCIAL = (
-#     ("You can add links in your config file", "#"),
-#     ("Another social link", "#"),
-# )
 
 DEFAULT_PAGINATION = 10
 

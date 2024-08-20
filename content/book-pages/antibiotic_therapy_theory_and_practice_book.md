@@ -30,7 +30,7 @@ Slug: antibiotic_therapy_theory_and_practice_book
 
 #### **Скачать электронную версию книги можно по [ссылке](books/antibiotic_therapy_theory_and_practice.pdf).**
 
-### Оглавление
+### Оглавление {#toc}
 
 <table><tbody>
 			<tr><td class="toc_entry">Предисловие</td><!--<td class="toc_page">3</td>--></tr>

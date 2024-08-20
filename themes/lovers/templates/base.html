@@ -92,6 +92,7 @@
             </div>
             <div class="col-sm-4 col-md-4 col-lg-3 col-xs-12">
                 <div style="margin-top: 20px;"></div>
+
                 {% if PROFILE_PICTURE %}
                 <div class="row text-center">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -99,7 +100,18 @@
                     </div>
                 </div><hr />
                 {% endif %}
-
+                {% if NAV_MENU_CONTENT %}
+                <ul class="nav nav-pills nav-stacked">
+                    {% for name, link in NAV_MENU_CONTENT %}
+                    <li><a class="btn btn-default" href="{{ SITEURL }}/{{ link }}">{{ name }}</a></li>
+                    {% endfor %}
+                    {% if DISPLAY_PAGES_ON_MENU %}
+                        {% for page in PAGES %}
+                            <li><a class="btn btn-default" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+                        {% endfor %}
+                    {% endif %}
+                </ul><hr />
+                {% endif %}
                 {% include 'includes/sidebar_widgets.html' %}
 
                     
