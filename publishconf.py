@@ -1,25 +1,19 @@
-AUTHOR = "Your Name"
-SITENAME = "Your Site"
-SITEURL = "localhost:8000"
+# This file is only used if you use `make publish` or
+# explicitly specify it as your config file.
 
-PATH = "content"
-THEME = "themes/lovers"
-BOOTSTRAP_THEME = "lovers"
+import os
+import sys
 
-TIMEZONE = "UTC"
+sys.path.append(os.curdir)
+from pelicanconf import *
 
-DEFAULT_LANG = "en"
+# If your site is available via HTTPS, make sure SITEURL begins with https://
+SITEURL = "https://mspolyak.ru"
+RELATIVE_URLS = False
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+DELETE_OUTPUT_DIRECTORY = True
 
-# URL settings
-ARTICLE_URL = "{slug}.html"
-ARTICLE_SAVE_AS = "{slug}.html"
+# Following items are often useful when publishing
 
-# Static paths
-STATIC_PATHS = ["images", "extra/robots.txt"]
+# DISQUS_SITENAME = ""
+# GOOGLE_ANALYTICS = ""

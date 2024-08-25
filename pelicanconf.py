@@ -1,12 +1,13 @@
 AUTHOR = "Golod D., Polyak M."
 SITENAME = "Polyak M.S."
-SITEURL = ""
+SITEURL = "http://localhost:8000"
 
 PATH = "content"
 STATIC_PATHS = ("images", "books", "extra")
 EXTRA_PATH_METADATA = {
     "extra/robots.txt": {"path": "robots.txt"},
     "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/sitemap.xml": {"path": "sitemap.xml"},
 }
 THEME = "themes/lovers"
 # BOOTSTRAP_THEME = "lovers"
@@ -14,8 +15,6 @@ THEME = "themes/lovers"
 TIMEZONE = "Europe/Moscow"
 
 DEFAULT_LANG = "RU"
-
-ARTICLE_URL = "poliak-mark-solomonovich.html"
 
 SOCIAL = (("mail", "mailto:mspolyak@ya.ru"),)
 
@@ -31,6 +30,11 @@ NAV_MENU_CONTENT = (("Домой", "index.html"), ("Публикации", "publ
 
 # Current books
 BOOKS = (
+    (
+        "Цианобактерии и их метаболиты",
+        "cyanobactera_and_its_metabolits.html",
+        "cyanobacteria_book_tn.jpg",
+    ),
     (
         "Поляк М.С. Сочетанная антибиотикотерапия",
         "books/combined_antibiotic_therapy.pdf",

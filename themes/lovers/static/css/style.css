@@ -81,6 +81,17 @@ td.toc_page {
   padding: 10px; /* Optional: Add padding for better spacing */
 }
 
+table {
+  width: 100%; /* Makes the table take up 100% of the container's width */
+  border-collapse: collapse; /* Ensures no gaps between table cells */
+}
+
+th,
+td {
+  padding: 8px; /* Adds some padding inside the cells */
+  text-align: left; /* Aligns text to the left */
+}
+
 /**/
 /* End custom styles */
 /**/
