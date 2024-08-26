@@ -1,161 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mspolyak.ru/</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://mspolyak.ru/</loc>
+  <lastmod>2024-08-25T20:18:50+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/publications.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/index.html</loc>
+  <lastmod>2024-08-25T20:18:50+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/combined_antibiotic_therapy.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/cyanobactera_and_its_metabolits.html</loc>
+  <lastmod>2024-08-25T20:18:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotics_in_treatment_of_anaerobes.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/combined_antibiotic_therapy.pdf</loc>
+  <lastmod>2024-08-25T20:17:55+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/present_day_problems_of_antibiotic_therapy_in_ophthalmology.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/antibiotics_in_treatment_of_anaerobes.pdf</loc>
+  <lastmod>2024-08-25T20:18:14+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/antibiotics_in_ophthalmology.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/present_day_problems_of_antibiotic_therapy_in_ophthalmology.pdf</loc>
+  <lastmod>2024-08-25T20:18:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/antibiotic_therapy_of_problematic_infections.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/antibiotics_in_ophthalmology.html</loc>
+  <lastmod>2024-08-25T20:17:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/antibiotics_laboratory_book.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/antibiotic_therapy_of_problematic_infections.html</loc>
+  <lastmod>2024-08-25T20:17:26+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/antibiotic_therapy_theory_and_practice_book.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/antibiotic_therapy_of_problematic_infections_full.pdf</loc>
+  <lastmod>2024-08-25T20:18:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/antibiotics_toc_eng.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/antibiotics_laboratory_book.html</loc>
+  <lastmod>2024-08-25T20:17:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/culture_media_2008_book.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_full.pdf</loc>
+  <lastmod>2024-08-25T20:18:06+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/basic_antibiotic_therapy_2003.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/antibiotic_therapy_theory_and_practice_book.html</loc>
+  <lastmod>2024-08-25T20:17:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/culture_medium_2002.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/books/antibiotic_therapy_theory_and_practice.pdf</loc>
+  <lastmod>2024-08-25T20:17:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotic_therapy_of_problematic_infections_full.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/antibiotics_toc_eng.html</loc>
+  <lastmod>2024-08-25T20:17:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_full.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/culture_media_2008_book.html</loc>
+  <lastmod>2024-08-25T20:18:22+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotic_therapy_theory_and_practice.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://mspolyak.ru/publications.html</loc>
+  <lastmod>2024-08-25T20:18:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/index.html</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/antibiotics_in_ophthalmology_toc.pdf</loc>
+  <lastmod>2024-08-25T20:18:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/role_of_bacteriological_service_2014.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/antibiotics_in_ophthalmology_ch1.pdf</loc>
+  <lastmod>2024-08-25T20:17:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotics_in_ophthalmology_toc.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/antibiotic_therapy_of_problematic_infections_foreword.pdf</loc>
+  <lastmod>2024-08-25T20:17:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotics_in_ophthalmology_ch1.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_toc.pdf</loc>
+  <lastmod>2024-08-25T20:18:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotic_therapy_of_problematic_infections_toc.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_foreword.pdf</loc>
+  <lastmod>2024-08-25T20:17:49+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/antibiotic_therapy_of_problematic_infections_foreword.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch2.pdf</loc>
+  <lastmod>2024-08-25T20:17:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_toc.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch3.pdf</loc>
+  <lastmod>2024-08-25T20:17:47+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_foreword.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch4.pdf</loc>
+  <lastmod>2024-08-25T20:18:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch2.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch5.pdf</loc>
+  <lastmod>2024-08-25T20:18:12+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch3.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch6.pdf</loc>
+  <lastmod>2024-08-25T20:17:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch4.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch7.pdf</loc>
+  <lastmod>2024-08-25T20:17:41+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch5.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/laboratory_support_ch8.pdf</loc>
+  <lastmod>2024-08-25T20:18:07+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch6.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/culture_medium_2002.pdf</loc>
+  <lastmod>2024-08-25T20:17:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch7.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/role_of_bacteriological_service_2014.pdf</loc>
+  <lastmod>2024-08-25T20:18:10+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://mspolyak.ru/books/laboratory_support_ch8.pdf</loc>
-<lastmod>2024-08-15T12:03:00+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://mspolyak.ru/books/basic_antibiotic_therapy_2003.pdf</loc>
+  <lastmod>2024-08-25T20:17:56+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-
-</urlset> 
+</urlset>
